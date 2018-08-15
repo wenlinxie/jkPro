@@ -6,12 +6,12 @@
   <packaging>war</packaging>
   <distributionManagement>
         <repository>
-            <id>release-repository</id>
+            <id>release</id>
             <name>release-repository</name>
             <url>http://192.168.52.128:9999/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
-            <id>snapshots-repository</id>
+            <id>snapshots</id>
             <name>snapshops-repository</name>
             <url>http://192.168.52.128:9999/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
