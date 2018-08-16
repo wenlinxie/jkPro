@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jenkins</groupId>
   <artifactId>jenkinsPro</artifactId>
-  <version>0.0.1-${repository}</version>
+  <version>0.0.1-RELEASES</version>
   <packaging>war</packaging>
   <distributionManagement>
         <repository>
